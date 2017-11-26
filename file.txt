@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 this is a file.txt file 
 git fetch origin remote
 
 hi my name is suhail
-=======
-this is a file.txt file 
-git fetch origin remote
->>>>>>> origin/master
